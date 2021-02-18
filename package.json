@@ -1,0 +1,22 @@
+{
+  "name": "jsy-echo-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesShr/echo-package.git"
+  },
+  "keywords": [
+    "jsy"
+  ],
+  "author": "jamesshr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesShr/echo-package/issues"
+  },
+  "homepage": "https://github.com/JamesShr/echo-package#readme"
+}
